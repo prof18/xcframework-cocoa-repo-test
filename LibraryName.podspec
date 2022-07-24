@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          = "LibraryName"
-s.version       = "1.0"
+s.version       = "1.0-SNAPSHOT"
 s.summary       = "This is a test KMP framework"
 s.homepage      = "https://github.com/prof18/xcframework-cocoa-repo-test"
 s.license       = "Apache"
